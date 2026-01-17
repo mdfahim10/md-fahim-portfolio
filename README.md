@@ -1,44 +1,52 @@
-# Md Fahim – Personal Portfolio
+Md Fahim–Personal Portfolio
 
-This is my personal portfolio website built to showcase my skills, projects, and academic background as a Full Stack Developer (MERN).
 
-GitHub Repository:  
-https://github.com/mdfahim10/md-fahim-portfolio  
+This repository contains my personal portfolio website, built to showcase my skills, projects, and academic background as a Full Stack Developer (MERN).
 
----
+GitHub Repository:
+https://github.com/mdfahim10/md-fahim-portfolio
 
-## Live Preview
+Live Preview
 https://mdfahimportfolio.netlify.app
 
----
-
-## About the Project
+-------------------------------------------------------------
+About the Project
 
 This portfolio is a responsive, single-page website designed to present my professional profile, technical skills, academic background, projects, and contact information.
 
-The project is built using HTML, CSS, and JavaScript with a clean UI and smooth navigation.
+The focus of this project is clean UI, structured content, and smooth navigation across all screen sizes. It serves as a personal branding website for recruiters and collaborators.
 
----
 
-## Tech Stack
+--------------------------------------------------------------
+Tech Stack :
+HTML5
+CSS3
+JavaScript
+Font Awesome
+Git & GitHub
+Netlify
 
-- HTML5  
-- CSS3  
-- JavaScript  
-- Font Awesome  
-- Git & GitHub  
-- Netlify  
+--------------------------------------------------------------
+Features :
+Fixed and responsive navigation bar
+Hero section with social media links and resume download
+About section highlighting academic and technical background
+Skills section categorized by domain
+Projects section with GitHub repositories and live demo links
+Contact section with email and location details
+Footer with social media links
+Fully responsive design for desktop, tablet, and mobile devices
 
----
+---------------------------------------------------------------
+Deployment :
+The project is deployed using Netlify and automatically updates on new commits pushed to the main branch.
 
-## Features
 
-- Fixed and responsive navigation bar  
-- Hero section with social links and resume download  
-- About section with academic and technical overview  
-- Skills section categorized by domain  
-- Projects section with GitHub and Live Demo links  
-- Contact section with email and location  
-- Footer with social media links  
-- Fully responsive design for desktop and mobile  
+---------------------------------------------------------------
+Author
 
+Md Fahim
+Full Stack Developer (MERN)
+Email: mdfahim002003@gmail.com
+
+Location: Vaishali, Bihar, India

@@ -3,7 +3,6 @@ fetch("components/navbar.html")
   .then(data => {
     document.getElementById("navbar").innerHTML = data;
 
-    // Hamburger logic (AFTER navbar is loaded)
     const hamburger = document.getElementById("hamburger");
     const navLinks = document.getElementById("navLinks");
 
@@ -12,7 +11,6 @@ fetch("components/navbar.html")
         navLinks.classList.toggle("active");
       });
 
-      // Optional: close menu when link is clicked
       navLinks.querySelectorAll("a").forEach(link => {
         link.addEventListener("click", () => {
           navLinks.classList.remove("active");
